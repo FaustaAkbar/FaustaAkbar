@@ -19,6 +19,7 @@
 Here are some of my favorite projects:
 
 - [**HarvestHUB**](https://github.com/FaustaAkbar/HarvestHUB) - An app for buying and selling basic necessities.
+- [**KonversiBinerDesimal**](https://github.com/FaustaAkbar/KonversiBinerDesimal) - Website for Convert Binary to Decimal.
 
 <h3 align="left">Skills:</h3>
 
