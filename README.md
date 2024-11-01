@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fausta Akbar</h1>
 <h3 align="center">A passionate Software Developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
