@@ -9,10 +9,10 @@
   </a>
 </p>
 <h3 align="left">About Me</h3>
-🔭 I’m currently working on cross-platform mobile applications  
-.💬 Ask me about Flutter, Dart, Mobile Development  
-.🌱 I’m constantly learning about state management in Flutter and app architecture best practices  
-.📫 Reach me at <a href="mailto:faustaakbarr@gmail.com">faustaakbarr@gmail.com</a>
+I’m currently working on cross-platform mobile applications  
+. Ask me about Flutter, Dart, Mobile Development  
+. I’m constantly learning about state management in Flutter and app architecture best practices  
+. Reach me at <a href="mailto:faustaakbarr@gmail.com">faustaakbarr@gmail.com</a>
 
 <h3 align="left">Projects:</h3>
 
