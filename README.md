@@ -70,10 +70,10 @@ Here are some of my favorite projects:
 </p>
 <h3 align="left">GitHub Stats:</h3>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustaakbar&show_icons=true&locale=en&layout=compact&theme=transparent" alt="faustaakbar" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustaakbar&locale=en&layout=compact&show_icons=true&theme=gruvbox&bg_color=00000000&text_color=434d58" alt="faustaakbar" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faustaakbar&show_icons=true&locale=en&theme=transparent" alt="faustaakbar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faustaakbar&show_icons=true&theme=gruvbox&bg_color=00000000&text_color=434d58" alt="faustaakbar" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faustaakbar&theme=transparent" alt="faustaakbar" />
