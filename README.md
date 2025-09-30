@@ -18,9 +18,9 @@ I’m currently working on cross-platform mobile applications
 
 Here are some of my favorite projects:
 
+- [**OpticScan**](https://github.com/FaustaAkbar/OpticScan) - Smart mobile app for diagnosing eye diseases with AI.
 - [**HarvestHUB**](https://github.com/FaustaAkbar/HarvestHUB) - An app for buying and selling basic necessities.
 - [**PayPlus**](https://github.com/FaustaAkbar/PayPlus) - Personal finance management solution.
-- [**OpticScan**](https://github.com/FaustaAkbar/OpticScan) - Smart mobile app for diagnosing eye diseases with AI.
 
 <h3 align="left">Skills:</h3>
 
