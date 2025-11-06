@@ -16,7 +16,7 @@ I’m currently working on cross-platform mobile applications
 
 <h3 align="left">Projects:</h3>
 
-Here are some of my favorite projects:
+Here are some of my projects:
 
 - [**OpticScan**](https://github.com/FaustaAkbar/OpticScan) - Smart mobile app for diagnosing eye diseases with AI.
 - [**HarvestHUB**](https://github.com/FaustaAkbar/HarvestHUB) - An app for buying and selling basic necessities.
