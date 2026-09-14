@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif">
 
 <h3 align="left">About Me</h3>
-I’m currently working on cross-platform mobile applications  
-. Ask me about Flutter, Kotlin, Mobile Development  
-. I’m constantly learning about state management in Flutter and app architecture best practices  
+Mobile & Backend Developer building cross-platform mobile applications and scalable backend services
+. Experienced with Flutter, Kotlin, Go, Node.js, and Spring Boot, with a growing focus on clean architecture, API design, databases, and cloud-native development
+. Always learning, building, and improving
 . Reach me at <a href="mailto:faustaakbarr@gmail.com">faustaakbarr@gmail.com</a>
 
 <h3 align="left">Projects:</h3>
