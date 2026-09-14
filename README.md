@@ -65,13 +65,13 @@ Here are some of my projects:
     <img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="faustaakbar" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">GitHub Stats:</h3>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustaakbar&locale=en&layout=compact&show_icons=true&theme=gruvbox&bg_color=00000000&text_color=434d58" alt="faustaakbar" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faustaakbar&show_icons=true&theme=gruvbox&bg_color=00000000&text_color=434d58" alt="faustaakbar" />
-</p>
+<h3 align="left">GitHub Stats:</h3> 
+<p align="left">
+  <img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=faustaakbar&locale=en&layout=compact&show_icons=true&theme=transparent" alt="faustaakbar" /> 
+</p> 
+<p>&nbsp; 
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=faustaakbar&show_icons=true&theme=transparent" alt="faustaakbar" /> 
+</p> 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faustaakbar&theme=transparent" alt="faustaakbar" />
 </p>
